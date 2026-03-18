@@ -13,7 +13,6 @@ ROS-free RoboSense LiDAR visualization stack with native C++ Foxglove WebSocket 
 ## Project Layout
 
 - `rslidar_sdk/` - Main SDK integration, C++ executable, runtime config, docs.
-- `rslidar_msg/` - Message definitions kept from upstream source tree.
 
 ## Quick Start
 

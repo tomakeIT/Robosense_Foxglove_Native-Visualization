@@ -18,6 +18,10 @@
 *.out
 *.err
 
+# Python cache
+**/__pycache__/
+**/*.pyc
+
 # Editor
 .DS_Store
 .vscode/
